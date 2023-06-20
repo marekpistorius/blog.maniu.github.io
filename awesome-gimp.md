@@ -13,6 +13,10 @@ Preamble
 - [SLOS-GIMPainter](https://github.com/SenlinOS/SLOS-GIMPainter) -
    SLOS-GIMPainter is a brush package for GIMP 2.10.20 or Later.
    
+- [Registry of gimp scripts
+   ](https://github.com/pixlsus/registry.gimp.org_static) - ( Backup of
+   Old Registry of Gimp) | Note: some can be broken
+   
  - [G'MIC plugin](https://gmic.eu/) - G'MIC is a full-featured
    open-source framework for digital image processing, distributed under
    the CeCILL free software licenses (LGPL-like and/or GPL-compatible).
@@ -28,11 +32,11 @@ Preamble
 
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
 
-- [Registry of gimp scripts
-   ](https://github.com/pixlsus/registry.gimp.org_static) - ( Backup of
-   Old Registry) | Note: some can be broken
+- [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
 
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
+
+- [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
 - [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
 
