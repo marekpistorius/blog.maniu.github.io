@@ -7,7 +7,7 @@ version: 2023
 message: >-
   If you use this this, please cite it using the
   metadata from this file.
-type: dataset
+type: article
 authors:
   - given-names: mpistorius
     email: me@maniu.eu
