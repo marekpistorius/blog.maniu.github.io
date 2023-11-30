@@ -34,11 +34,15 @@ Preamble
 
 - [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
 
+- [python-fu-cartoonify](https://github.com/pascalre/python-fu-cartoonify) - -
+
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
-- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
+- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP
+
+- [BubbleOCR](https://github.com/snakeotakon/BubbleOCR) - It allows you to translate any text of an image, specially designed for text bubbles/balloon ( by using [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract) )
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
   
