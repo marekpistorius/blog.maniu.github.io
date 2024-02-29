@@ -1,3 +1,17 @@
 title: Maniu's Journal
 description: Maniu Journal
 url: https://journal.maniu.eu/
+
+theme: minima
+author:
+  name: Maniu
+  email: "me@maniu.eu"
+
+header_pages:  
+  - about.md
+  - awesome-gimp.md
+
+minima:
+  social_links:
+    - { platform: twitter, user_url: "https://twitter.com/monkey_maniu" }
+    - { platform: instagram, user_url: "https://instagram.com/monkey_maniu" }
