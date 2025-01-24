@@ -13,5 +13,5 @@ header_pages:
 
 minima:
   social_links:
-    - { platform: twitter, user_url: "https://twitter.com/monkey_maniu" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/monkey.maniu.eu" }
     - { platform: instagram, user_url: "https://instagram.com/monkey_maniu" }
