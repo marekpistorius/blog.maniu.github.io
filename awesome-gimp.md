@@ -12,11 +12,7 @@ Preamble
    
 - [SLOS-GIMPainter](https://github.com/SenlinOS/SLOS-GIMPainter) -
    SLOS-GIMPainter is a brush package for GIMP 2.10.20 or Later.
-   
-- [Registry of gimp scripts
-   ](https://github.com/pixlsus/registry.gimp.org_static) - ( Backup of
-   Old Registry of Gimp) | Note: some can be broken
-   
+ 
  - [G'MIC plugin](https://gmic.eu/) - G'MIC is a full-featured
    open-source framework for digital image processing, distributed under
    the CeCILL free software licenses (LGPL-like and/or GPL-compatible).
@@ -32,19 +28,9 @@ Preamble
 
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
 
-- [Collections of Updated Scripts for 2.10+ from different other autohors , updated for 2.10.32](https://github.com/karlhof26/gimp-scheme)
-
-- [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
-
-- [python-fu-cartoonify](https://github.com/pascalre/python-fu-cartoonify) - -
-
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
-
-- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP
-
-- [BubbleOCR](https://github.com/snakeotakon/BubbleOCR) - It allows you to translate any text of an image, specially designed for text bubbles/balloon ( by using [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract) )
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
   
