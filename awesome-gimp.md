@@ -25,7 +25,7 @@ Preamble
 
 - [Resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis 
 
-- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program |
+- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program
             
 - [Collection of Script by shallowsky](https://github.com/akkana/gimp-plugins) - Various Scripts/Plugins see [GIMP at shallowsky](http://www.shallowsky.com/software/#gimp)
 
