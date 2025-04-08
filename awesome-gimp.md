@@ -7,7 +7,7 @@ Preamble
 ## List
 
 - [PhotoGIMP ](https://github.com/Diolinux/PhotoGIMP) - A patch for
-   optimizing GIMP 2.10+ for Adobe Photoshop users, including features
+   optimizing GIMP 3+ for Adobe Photoshop users, including features
    like
    
 - [SLOS-GIMPainter](https://github.com/SenlinOS/SLOS-GIMPainter) -
@@ -21,9 +21,12 @@ Preamble
    sequences of multi-spectral volumetric images, hence including 2D
    color images.
 
+- [Batcher](https://kamilburda.github.io/batcher/) - A batch image processing plug-in for GIMP
+
+- [Resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis 
+
 - [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program |
-           Note: works only in 3.x versions of GIMP
-           
+            
 - [Collection of Script by shallowsky](https://github.com/akkana/gimp-plugins) - Various Scripts/Plugins see [GIMP at shallowsky](http://www.shallowsky.com/software/#gimp)
 
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
