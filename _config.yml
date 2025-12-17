@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
 
 minima:
+  skin: classic
   nav_pages:  
   - about.md
   - awesome-gimp.md
