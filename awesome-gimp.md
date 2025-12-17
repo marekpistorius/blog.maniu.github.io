@@ -1,3 +1,5 @@
+layout: page
+
 ## Awesome GIMP
 
 Preamble
