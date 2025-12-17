@@ -7,7 +7,7 @@ author:
   name: Maniu
   email: "me@maniu.eu"
 
-header_pages:  
+nav_pages:  
   - about.md
   - awesome-gimp.md
 
