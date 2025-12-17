@@ -2,15 +2,24 @@ title: Maniu's Journal
 description: Maniu Journal
 url: https://journal.maniu.eu
 
-remote_theme: minima
+theme: minima
 site.author.name: Maniu
 site.author.email: "me@maniu.eu"
+
+plugins:
+  - jekyll-feed
 
 minima:
   nav_pages:  
   - about.md
   - awesome-gimp.md
+  
   show_excerpts: true
+
   social_links:
-    - { platform: bluesky, user_url: "https://bsky.app/profile/monkey.maniu.eu" }
-    - { platform: instagram, user_url: "https://instagram.com/monkey_maniu" }
+    - title: bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/monkey.maniu.eu" }
+    - title: Instagram
+      icon: instagram 
+      url: "https://instagram.com/monkey_maniu" }
