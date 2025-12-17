@@ -3,14 +3,13 @@ description: Maniu Journal
 url: https://journal.maniu.eu
 
 remote_theme: minima
-nav_pages:  
-  - about.md
-  - awesome-gimp.md
-
 site.author.name: Maniu
 site.author.email: "me@maniu.eu"
 
 minima:
+  nav_pages:  
+  - about.md
+  - awesome-gimp.md
   show_excerpts: true
   social_links:
     - { platform: bluesky, user_url: "https://bsky.app/profile/monkey.maniu.eu" }
