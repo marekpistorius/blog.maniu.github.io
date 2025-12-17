@@ -8,6 +8,7 @@ site.author.email: "me@maniu.eu"
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: classic
