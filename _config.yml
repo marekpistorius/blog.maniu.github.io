@@ -2,7 +2,7 @@ title: Maniu's Journal
 description: Maniu Journal
 url: https://journal.maniu.eu
 
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima"
 site.author.name: Maniu
 site.author.email: "me@maniu.eu"
 
