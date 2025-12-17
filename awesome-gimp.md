@@ -1,3 +1,4 @@
+## Awesome GIMP
 
 Preamble
 ---------
