@@ -3,13 +3,12 @@ description: Maniu Journal
 url: https://journal.maniu.eu
 
 remote_theme: minima
-author:
-  name: Maniu
-  email: "me@maniu.eu"
-
 nav_pages:  
   - about.md
   - awesome-gimp.md
+
+site.author.name: Maniu
+site.author.email: "me@maniu.eu"
 
 minima:
   social_links:
