@@ -2,13 +2,14 @@ title: Maniu's Journal
 description: Maniu Journal
 url: https://journal.maniu.eu
 
-theme: minima
+remote_theme: minima
 site.author.name: Maniu
 site.author.email: "me@maniu.eu"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 minima:
   skin: classic
