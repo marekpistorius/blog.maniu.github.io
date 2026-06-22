@@ -1,1 +1,4 @@
-
+ser-agent: *
+Disallow: 
+Crawl-delay: 60
+Sitemap: https://journal.maniu.eu/sitemap.xml
