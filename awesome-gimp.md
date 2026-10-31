@@ -39,7 +39,12 @@ Preamble
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
+- [8bf-host-bridge-plugin \(Photoshop-compatible filters \) ](https://github.com/distortionary-labs/gimp-8bfhost-bridge) 
+
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
+
+- [A Moribund Institute GIMP 3 plug-in for creating raised relief, intaglio-style bevel effect](https://github.com/MorDrawing/mor-engraved-relief-gimp-plugin) -  A Moribund Institute GIMP 3 plug-in for creating raised relief, intaglio-style bevel effects. 
+
   
 ## Feedback
 
